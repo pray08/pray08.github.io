@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "JiYeop Kim"
+  name             : "Jaehoon Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Diffusion은 신이고 GPT는 무적이다"
-  location         : "Seoul, Korea"
-  email            : "99edward@snu.ac.kr"
+  location         : "Chungju, Korea"
+  email            : "jgs1658@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
